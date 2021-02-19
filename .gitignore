@@ -1,0 +1,6 @@
+# exclude any binary folder
+**/bin/
+# exclude object files .o .a
+**.[oa]
+# exclude .lst files (debug layout files)
+**.lst
